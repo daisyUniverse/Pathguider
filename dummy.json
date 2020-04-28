@@ -1,0 +1,214 @@
+{
+  "spells": [
+    {
+      "spellName": "Burning Hands",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "atkDie": 4,
+      "atkDiePerLevel": 1,
+      "atkDiePerLevelMax": 5,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Corrosive Touch",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "atkDie": 4,
+      "atkDiePerLevel": 1,
+      "atkDiePerLevelMax": 5,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Chill Touch",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Shield",
+      "spellLevel": 1,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Magic Missile",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Enlarge Person",
+      "spellLevel": 1,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Unseen Servant",
+      "spellLevel": 1,
+      "spellTurns": 100,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Expeditious Retreat",
+      "spellLevel": 1,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Shocking Grasp",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Ray of Enfeeblement",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Grease",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 0
+    },
+    {
+      "spellName": "Feather Fall",
+      "spellLevel": 1,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Flaming Sphere",
+      "spellLevel": 2,
+      "spellTurns": 1,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Invisibility",
+      "spellLevel": 1,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Mirror Image",
+      "spellLevel": 2,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Levitate",
+      "spellLevel": 2,
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Fog Cloud",
+      "spellLevel": 2,
+      "spellTurns": 100,
+      "turnsLeft": 0,
+      "perLevels": 1
+    },
+    {
+      "spellName": "Arcane Enchantment",
+      "spellLevel": "AB",
+      "spellTurns": 10,
+      "turnsLeft": 0,
+      "perLevels": 0
+    }
+  ],
+  "weapons": [
+    {
+      "weapName": "Cursed Greatsword",
+      "weapBonus": 9,
+      "enchanted": false
+    },
+    {
+      "weapName": "Longbow",
+      "weapBonus": 8,
+      "enchanted": false
+    }
+  ],
+  "stats": [
+    {
+      "charName": "Chrono",
+      "currentHP": 30,
+      "maxHP": 44,
+      "currentAP": 7,
+      "maxAP": 7,
+      "currentGP": 250,
+      "currentXP": 12462,
+      "nextlevelXP": 15000,
+      "playerLevel": 5
+    }
+  ],
+  "caster": [
+    {
+      "cantripsPerDay": 4,
+      "firstPerDay": 7,
+      "secondPerDay": 3,
+      "thirdPerDay": 0,
+      "fourthPerDay": 0,
+      "fifthPerDay": 0,
+      "sixthPerDay": 0,
+      "arcaneBonus": 2
+    },
+    {
+      "0": 4,
+      "1": 7,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    }
+  ],
+  "levels": [
+    {
+      "1": 0,
+      "2": 1300,
+      "3": 3300,
+      "4": 6000,
+      "5": 10000,
+      "6": 15000,
+      "7": 23000,
+      "8": 34000,
+      "9": 50000,
+      "10": 71000,
+      "11": 105000,
+      "12": 145000,
+      "13": 210000,
+      "14": 295000,
+      "15": 425000,
+      "16": 600000,
+      "17": 850000,
+      "18": 1200000,
+      "19": 1700000,
+      "20": 2400000
+    }
+  ],
+  "combat": [
+    {
+      "inCombat": false,
+      "turnCount": 0,
+      "spellsCast": false
+    }
+  ],
+  "casted": {}
+}
